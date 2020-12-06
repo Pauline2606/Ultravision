@@ -23,9 +23,9 @@
   width: 1440px; 
 }
 
-.section-title {
+.section-title1 {
   padding: 20px;
-  background-color: #ff6b00;
+  background-color: #e02020;
   color: white;
   text-align: center;
   font-size: 38px;
@@ -34,6 +34,17 @@
   font-family: poppins;
   width: 1440px; }
 
+  .section-title3 {
+    padding: 20px;
+    background-color: #b620e0;
+    color: white;
+    text-align: center;
+    font-size: 38px;
+    margin: 2px;
+    border: white;
+    font-family: poppins;
+    width: 1440px; }
+  
 
 
 
@@ -41,7 +52,7 @@
 
 /* default font, size, and margins */ 
 
-.header__deco-- red {
+.header__deco--red {
 background-color: #e02020;
 width: 1440px;
 height: 32px;
@@ -116,3 +127,22 @@ flex-grow: 1;
 
 }
 
+.Mask {
+color: #fccc00;
+width: 350px;
+  height: 249px;
+}
+
+.We-put-it-all-togeth {
+  width: 320px;
+  height: 25px;
+  font-family: Poppins;
+  font-size: 18px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #231f20;
+}
