@@ -23,6 +23,17 @@
   width: 1440px; 
 }
 
+.section-title {
+  padding: 20px;
+  background-color: #ff6b00;
+  color: white;
+  text-align: center;
+  font-size: 38px;
+  margin: 2px;
+  border: white;
+  font-family: poppins;
+  width: 1440px; }
+
 
 
 
