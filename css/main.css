@@ -1,65 +1,102 @@
-
-/**
-* -------------
-* Global Styles
-* -------------
-*/
-
-body {
-  /* Default font family and font color */
+.title {
+  padding: 20px;
+  background-color: #fccc00;
+  color: white;
+  text-align: center;
+  font-size: center;
+  font-size: 88px;
+  font-family: poppins;
+  margin: 2px;
+  width: 1440px;
+}
+/* default font, size, and margins */
+ 
+.section-title {
+  padding: 20px;
+  background-color: #ff6b00;
+  color: white;
+  text-align: center;
+  font-size: 38px;
+  margin: 2px;
+  border: white;
+  font-family: poppins;
+  width: 1440px; 
 }
 
-p, li, textarea, label, input, select {
-  /* Default font size and line height */
+/* default font, size, and margins */ 
+
+.header__deco-- red {
+background-color: #e02020;
+width: 1440px;
+height: 32px;
+margin: 2px;
+border: 1px white;
 }
 
-
-
-h1 {
-   /* Default font, size, and margins */
+.header__deco--purple {
+ background-color: #b620e0;
+ width: 1440px;
+ height: 16px;
+ margin: 2px;
+ border: 1px white;
 }
 
-h2 {
-  /* Default font, size, and margins */
+.header__deco--blue {
+  background-color: #6236ff;
+  width: 1440px;
+  height: 8px;
+  margin: 2px;
+  border: 1px white;
 }
 
-h3 {
-  /* Default font, size, and margins */
+.sub-title {
+  font-size: 40px;
+  text-align: center;
+  color: #231f20;
+  font-family: poppins;
+
 }
 
-h4 {
-  /* Default font, size, and margins */
+.block1 {
+ display: flex;
+ max-width: 1024px;
+ margin-left: auto;
+ margin-right: auto;
+
 }
 
-h5 {
-  /* Default font, size, and margins */
+.block1-content,
+.block1-illu {
+flex-basis: 320px;
+flex-grow: 1;
 }
 
-h6 {
-  /* Default font, size, and margins */
+.block1-titre {
+  text-align: center;
+  color: #231f20;
+  font-size: 24px;
+  font-family: poppins;
+
+/* default font, size, and margins */ 
+
 }
 
+.block1-text{
+  text-align: center;
+  text-align: justify;
+  color: #231f20;
+  font-family: poppins;
+  font-size: 16px;
+  padding: 32px 32px 32px 32px;
 
-a {
-  /* Link color */
 }
 
-a:hover {
-  /* Link color on mouse over */
+.block1-image {
+  padding: 32px 32px 32px 32px;
 }
 
+.block1-illu{
+  background-image: url( );
 
-/**
-* ------
-* Layout
-* ------
-*/
+}
 
-
-
-
-/**
-* ----------
-* Components
-* ----------
-*/
